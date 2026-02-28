@@ -1,0 +1,41 @@
+{
+  "season": 2025,
+  "model_run_id": "20260228T033812Z",
+  "model_config": "grid_plus_quali_v1",
+  "predictions": {
+    "abu_dhabi": {
+      "event_name": "Abu Dhabi Grand Prix",
+      "predicted_podium": [
+        {"driver": "Max Verstappen", "team": "Red Bull Racing", "qualifying_pos": 1, "predicted_pos": 2, "score": 2.39},
+        {"driver": "Lando Norris", "team": "McLaren", "qualifying_pos": 2, "predicted_pos": 3, "score": 3.03},
+        {"driver": "Charles Leclerc", "team": "Ferrari", "qualifying_pos": 5, "predicted_pos": 4, "score": 4.30}
+      ],
+      "actual_qualifying_top3": ["Max Verstappen", "Lando Norris", "Oscar Piastri"],
+      "notes": "Predicted 2/3 of podium based on qualifying"
+    },
+    "qatar": {
+      "event_name": "Qatar Grand Prix",
+      "predicted_podium": [
+        {"driver": "Oscar Piastri", "team": "McLaren", "qualifying_pos": 1, "predicted_pos": 2, "score": 1.87},
+        {"driver": "Lando Norris", "team": "McLaren", "qualifying_pos": 2, "predicted_pos": 3, "score": 3.09},
+        {"driver": "Max Verstappen", "team": "Red Bull Racing", "qualifying_pos": 3, "predicted_pos": 4, "score": 3.64}
+      ],
+      "actual_qualifying_top3": ["Oscar Piastri", "Lando Norris", "Max Verstappen"],
+      "notes": "Perfect prediction - correctly identified all 3 based on qualifying"
+    },
+    "sao_paulo": {
+      "event_name": "São Paulo Grand Prix",
+      "predicted_podium": [
+        {"driver": "Isack Hadjar", "team": "Racing Bulls", "qualifying_pos": 5, "predicted_pos": 10, "score": 9.79},
+        {"driver": "George Russell", "team": "Mercedes", "qualifying_pos": 6, "predicted_pos": 10, "score": 9.85},
+        {"driver": "Liam Lawson", "team": "Racing Bulls", "qualifying_pos": 7, "predicted_pos": 10, "score": 9.98}
+      ],
+      "actual_qualifying_top3": ["Lando Norris", "Kimi Antonelli", "Charles Leclerc"],
+      "notes": "ISSUE: All predictions defaulted to position 10 - likely missing features"
+    }
+  },
+  "summary": {
+    "total_races": 3,
+    "podium_accuracy": "1/3 (Qatar perfect, Abu Dhabi 2/3, São Paulo failed)"
+  }
+}

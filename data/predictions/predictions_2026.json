@@ -1,0 +1,173 @@
+{
+  "year": 2026,
+  "season": "2026 Formula 1 World Championship",
+  "last_updated": "2026-05-24T14:30:09.302700Z",
+  "current_event": {
+    "name": "Canadian Grand Prix",
+    "circuit": "",
+    "location": "",
+    "date": "2026-05-24 16:00:00-04:00",
+    "round": 7.0
+  },
+  "predictions": [
+    {
+      "predicted_position": 10,
+      "driver": "Lando Norris",
+      "team": "McLaren",
+      "qualifying_position": 3,
+      "win_probability": 9.590635299682617
+    },
+    {
+      "predicted_position": 10,
+      "driver": "Oscar Piastri",
+      "team": "McLaren",
+      "qualifying_position": 4,
+      "win_probability": 9.590635299682617
+    },
+    {
+      "predicted_position": 10,
+      "driver": "George Russell",
+      "team": "Mercedes",
+      "qualifying_position": 1,
+      "win_probability": 10.427430152893066
+    },
+    {
+      "predicted_position": 11,
+      "driver": "Kimi Antonelli",
+      "team": "Mercedes",
+      "qualifying_position": 2,
+      "win_probability": 11.199812889099121
+    },
+    {
+      "predicted_position": 11,
+      "driver": "Lewis Hamilton",
+      "team": "Ferrari",
+      "qualifying_position": 5,
+      "win_probability": 11.081706047058105
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Alexander Albon",
+      "team": "Williams",
+      "qualifying_position": 18,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Fernando Alonso",
+      "team": "Aston Martin",
+      "qualifying_position": 19,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Arvid Lindblad",
+      "team": "Racing Bulls",
+      "qualifying_position": 9,
+      "win_probability": 12.002317428588867
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Oliver Bearman",
+      "team": "Haas F1 Team",
+      "qualifying_position": 16,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Gabriel Bortoleto",
+      "team": "Audi",
+      "qualifying_position": 13,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Valtteri Bottas",
+      "team": "Cadillac",
+      "qualifying_position": 22,
+      "win_probability": 12.404634475708008
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Pierre Gasly",
+      "team": "Alpine",
+      "qualifying_position": 14,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Isack Hadjar",
+      "team": "Red Bull Racing",
+      "qualifying_position": 7,
+      "win_probability": 12.29010009765625
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Nico Hulkenberg",
+      "team": "Audi",
+      "qualifying_position": 11,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Liam Lawson",
+      "team": "Racing Bulls",
+      "qualifying_position": 12,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Charles Leclerc",
+      "team": "Ferrari",
+      "qualifying_position": 8,
+      "win_probability": 12.044927597045898
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "qualifying_position": 6,
+      "win_probability": 11.845663070678711
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Esteban Ocon",
+      "team": "Haas F1 Team",
+      "qualifying_position": 17,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Sergio Perez",
+      "team": "Cadillac",
+      "qualifying_position": 20,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Carlos Sainz",
+      "team": "Williams",
+      "qualifying_position": 15,
+      "win_probability": 12.315140724182129
+    },
+    {
+      "predicted_position": 12,
+      "driver": "Lance Stroll",
+      "team": "Aston Martin",
+      "qualifying_position": 21,
+      "win_probability": 12.404634475708008
+    },
+    {
+      "predicted_position": 14,
+      "driver": "Franco Colapinto",
+      "team": "Alpine",
+      "qualifying_position": 10,
+      "win_probability": 14.058093070983887
+    }
+  ],
+  "model": {
+    "name": "unknown",
+    "run_id": "",
+    "features": []
+  }
+}

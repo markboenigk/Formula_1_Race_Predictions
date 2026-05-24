@@ -1,0 +1,17 @@
+{
+  "year": 2026,
+  "last_updated": "2026-05-24T14:30:13.082171Z",
+  "overall": {
+    "total_races": 0,
+    "position_accuracy": {
+      "exact": 0,
+      "top_3": 0,
+      "top_10": 0
+    },
+    "podium_accuracy_percent": 0,
+    "points_accuracy_percent": 0,
+    "average_position_error": 0,
+    "confidence_index": 0
+  },
+  "by_race": []
+}

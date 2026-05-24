@@ -1,0 +1,30 @@
+{
+  "year": 2026,
+  "last_updated": "2026-05-24T14:30:10.949291Z",
+  "next_races": [
+    {
+      "round": 7.0,
+      "name": "Canadian",
+      "circuit": "",
+      "location": "",
+      "date": "2026-05-24 16:00:00-04:00",
+      "days_until": 0
+    },
+    {
+      "round": 8.0,
+      "name": "Monaco",
+      "circuit": "",
+      "location": "",
+      "date": "2026-06-07 15:00:00+02:00",
+      "days_until": 13
+    },
+    {
+      "round": 9.0,
+      "name": "Barcelona",
+      "circuit": "",
+      "location": "",
+      "date": "2026-06-14 15:00:00+02:00",
+      "days_until": 20
+    }
+  ]
+}
